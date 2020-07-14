@@ -15,8 +15,8 @@ import numpy as np
 
 import unittest
 
-from data import neuhaus
-from adaptive import lsu, tst, orc, abh
+from multipy.data import neuhaus
+# from multipy.adaptive import lsu, tst, orc, abh
 
 class TestQvalue(unittest.TestCase):
 

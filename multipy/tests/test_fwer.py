@@ -15,8 +15,8 @@ import numpy as np
 
 import unittest
 
-from data import neuhaus
-from fwer import bonferroni, holm_bonferroni, sidak
+from multipy.data import neuhaus
+from multipy.fwer import bonferroni, holm_bonferroni, sidak
 
 class TestFWER(unittest.TestCase):
 

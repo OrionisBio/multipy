@@ -14,7 +14,7 @@ import numpy as np
 
 import unittest
 
-from permutation import _cluster_by_adjacency
+from multipy.permutation import _cluster_by_adjacency
 
 class TestPermutation(unittest.TestCase):
 
